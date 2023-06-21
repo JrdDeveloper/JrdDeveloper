@@ -1,4 +1,4 @@
-![<Discord>](https://img.shields.io/badge/<Discord!>-<Buton rengi>?style=for-the-badge&logo=<Discord>&logoColor=<Blue>)
+[![Discord](https://img.shields.io/discord/:793016313231835156)](https://discord.gg/ysAG9Pku)
 
 <p align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JrdDeveloper&theme=TEMA-İSMİ&show_icons=true&count_private=true)"/>
