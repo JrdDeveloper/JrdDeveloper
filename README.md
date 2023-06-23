@@ -31,6 +31,7 @@ Projelerim üzerinde işbirliği yapmak ve geliştirme sürecine katkıda bulunm
 ## 📫 İletişim
 
 E-posta: [alitoprakdnc74100@gmail.com]
+
 Discord: [Jrd0]
 
 Teşekkürler ve hoş geldiniz! ✨
